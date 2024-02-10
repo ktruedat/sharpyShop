@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("sharpyShop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf24b5908ebf340a51b3c1cea35d45093e7027d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7aca6e75611d049f014d67b4aad6cc4df2720f6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("sharpyShop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("sharpyShop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
