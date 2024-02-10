@@ -1,6 +1,9 @@
-namespace sharpyShop.Models;
+using sharpyShop.Models;
 
-public class IProductRepository
+namespace sharpyShop.Repository;
+
+public interface IProductRepository
 {
-    
+    IEnumerable<Product> AllProducts { get; }
+    Product? GetProductById(int productId);
 }
