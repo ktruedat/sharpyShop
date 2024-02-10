@@ -2,7 +2,7 @@ namespace sharpyShop.Models;
 
 public class Product
 {
-    private int ProductId { get; set; }
+    private int Id { get; set; }
     private String Name { get; set; } = string.Empty;
     private int CategoryId { get; set; }
     private Category Category { get; set; }  = default!;
